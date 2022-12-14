@@ -6,4 +6,4 @@ def main(msg):
 def secondary():
     print("New function")
 
-main("Hello people")
+main("Hello people craazyy")
